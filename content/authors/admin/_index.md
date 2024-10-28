@@ -95,7 +95,7 @@ work:
       - Evaluated Reinforcement Learning methods on robotics tasks that require fast reactive motions in Mujoco. This project is funded by Toyota Research Institute.
       - Conducted joint torque feedback analysis on a large-scale robotics dataset - DROID dataset. Presented important rules of haptic data collection in future large-scale distributed robotics dataset at Stanford cross-labs robotics meeting. 
     links:
-      name: 'Slides'
+    - name: 'Slides'
       url: 'https://docs.google.com/presentation/d/1fqNfCkngdy15E_D1UGwR4o48xJiQogwx017seOpB4So/edit?usp=sharing'
   - position: Machine Learning Intern
     company_name: Intuitive Surgical
