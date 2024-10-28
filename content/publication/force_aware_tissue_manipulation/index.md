@@ -18,7 +18,7 @@ publishDate: "2024-05-14T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article"]
+# publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Stanford Human-Centered Artificial Intelligence at Five Conference"
@@ -39,7 +39,7 @@ featured: true
 links:
 # - name: Custom Link
 #   url: http://example.org
-url_poster: https://hai.stanford.edu/sites/default/files/2024-06/Alaa_Eldin_and_Jiaying_Fang.pdf
+url_poster: 'https://hai.stanford.edu/sites/default/files/2024-06/Alaa_Eldin_and_Jiaying_Fang.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
