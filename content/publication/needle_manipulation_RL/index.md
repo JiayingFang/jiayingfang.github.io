@@ -28,7 +28,7 @@ tags:
 - Reinfocement Learning
 - Surgical Robotics
 
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
