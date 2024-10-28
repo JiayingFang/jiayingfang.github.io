@@ -39,8 +39,8 @@ profiles:
   #   url: https://www.instagram.com/
   # - icon: brands/github
   #   url: https://github.com/gcushen
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/jiaying-fang-554b691b8/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
