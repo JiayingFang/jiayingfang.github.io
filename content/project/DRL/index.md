@@ -1,6 +1,6 @@
 ---
-title: Pandas
-date: 2023-10-26
+title: Learning a Deep RL Policy for Automated Needle Manipulation on SUrgical Robots
+date: 2024-06-01
 external_link: https://github.com/pandas-dev/pandas
 tags:
   - Hugo
