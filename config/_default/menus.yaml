@@ -19,7 +19,7 @@ main:
   # - name: Projects
   #   url: projects/
   #   weight: 30
-  - name: Papers and Projects
+  - name: Publications and Projects
     url: /#papers
     weight: 11
   # - name: Teaching

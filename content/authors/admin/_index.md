@@ -177,7 +177,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: ""
     items:
       - name: Python, C, C++, Java, MATLAB, R
         description: ''
@@ -186,31 +186,17 @@ skills:
       - name: Linux (Ubuntu), Raspberry Pi, STM32, Arduino
         description: ''
         percent: 100
-        icon: ubuntu
+        icon: cursor-arrow-rays
+  - name: ""
+    items:
       - name: PyTorch, TensorFlow, Jax, ROS, dVRK, Git, Docker, LaTeX, Blender, Mujoco, Gazebo, AutoCAD, SolidWorks
         description: ''
         percent: 100
-        icon: git
+        icon: code-bracket
       - name: 3D Printing, Circuit Design, Prototyping
         description: ''
         percent: 100
         icon: wrench
-  # - name: Hobbies
-  #   color: '#eeac02'
-  #   color_border: '#f0bf23'
-  #   items:
-  #     - name: Hiking
-  #       description: ''
-  #       percent: 60
-  #       icon: person-simple-walk
-  #     - name: Cats
-  #       description: ''
-  #       percent: 100
-  #       icon: cat
-  #     - name: Photography
-  #       description: ''
-  #       percent: 80
-  #       icon: camera
 
 languages:
   - name: English
