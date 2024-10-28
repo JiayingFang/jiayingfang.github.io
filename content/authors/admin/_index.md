@@ -64,7 +64,7 @@ education:
       - Machine Learning
       - Signal Processing
     # button:
-    #   name: 'Read Thesis'
+    #   text: 'Read Thesis'
     #   url: 'https://example.com'
   - area: BEng (Honours) in Electronic and Information Engineering
     institution: Hong Kong Polytechnic University
@@ -94,8 +94,8 @@ work:
       - Designing and implementing a cross-embodiment scheme to zero-shot transfer a policy trained on videos of humans performing a task to a robot. To be submitted in January 2025, aiming for RSS 2025.
       - Evaluated Reinforcement Learning methods on robotics tasks that require fast reactive motions in Mujoco. This project is funded by Toyota Research Institute.
       - Conducted joint torque feedback analysis on a large-scale robotics dataset - DROID dataset. Presented important rules of haptic data collection in future large-scale distributed robotics dataset at Stanford cross-labs robotics meeting. 
-    links:
-    - name: 'Slides'
+    button:
+      text: 'Slides'
       url: 'https://docs.google.com/presentation/d/1fqNfCkngdy15E_D1UGwR4o48xJiQogwx017seOpB4So/edit?usp=sharing'
   - position: Machine Learning Intern
     company_name: Intuitive Surgical
@@ -119,8 +119,8 @@ work:
       - Designed and Implemented a force-aware autonomous tissue manipulation model using imitation learning with da-Vinci Research Kit (dVRK). The task completion rate of autonomous tissue retraction increased 50\% with haptic sensing. 
       - To be submitted to RAL around December 2024.
       - Presented force-aware autonomous surgery at Stanford Human-Centered Artificial Intelligence Conference 2024.
-    links:
-      name: 'Poster'
+    button:
+      text: 'Poster'
       url: 'https://hai.stanford.edu/sites/default/files/2024-06/Alaa_Eldin_and_Jiaying_Fang.pdf'
   - position: Computer Vision Algorithm Intern
     company_name: China Telecom AI
@@ -131,8 +131,8 @@ work:
     summary: |
       - Co-led the team in the ICCV'23 Open Fine-Grained Activity Detection Challenge.
       - Won third place on the video activity recognition track and second place on the video activity detection track.
-    links:
-      name: 'Challenge'
+    button:
+      text: 'Challenge'
       url: 'https://openfad.nist.gov/#pills-overview'
   - position: Undergraduate Research Assistant
     company_name: Prof. Mak's Lab, Hong Kong Polytechnic University
@@ -144,11 +144,11 @@ work:
       Supervisor: Prof. Man-Wai Mak
       - Implemented deep speaker embedding for speaker verification with a domain loss to alleviate the languages mismatch problem.
       - The performance of the ECAPA-TDNN (pre-trained using the English dataset) on the unlabelled Chinese dataset has improved by 10% with the MMD-based domain loss. Won the Honours Project Technical Excellence Award. 
-    links:
-      name: 'Report'
+    button:
+      text: 'Report'
       url: 'https://drive.google.com/file/d/1u0oVlbbCxIFAbcdxVdU_fLN6S6T79gW6/view?usp=sharing'
-    links:
-      name: 'Code'
+    button:
+      text: 'Code'
       url: 'https://github.com/JiayingFang/ECAPA-TDNN_across_lang'
   - position: Undergraduate Research Assistant
     company_name: Dynamics, Estimation, and Control in Aerospace and Robotics Lab, McGill University
@@ -160,8 +160,8 @@ work:
       Supervisor: Prof. James Forbes
       - Designed a finite-horizon LQR control of UGV for path tracking.
       - Robot Operating System was used during implementation. The state of UGV was represented as an element of direct Euclidean isometries, SE(2). 
-    links:
-      name: 'Report'
+    button:
+      text: 'Report'
       url: 'https://connectpolyu-my.sharepoint.com/personal/19078474d_connect_polyu_hk/_layouts/15/onedrive.aspx?id=%2Fpersonal%2F19078474d%5Fconnect%5Fpolyu%5Fhk%2FDocuments%2FLQR%5FController%5FDesign%5FReport%5FJiayingFang%2Epdf&parent=%2Fpersonal%2F19078474d%5Fconnect%5Fpolyu%5Fhk%2FDocuments&ga=1'
   - position: Undergraduate Research Assistant
     company_name: Autonomous Systems Lab, Hong Kong Polytechnic University
@@ -225,10 +225,6 @@ awards:
     summary: |
       - A prestigious annual honor awarded to a single distinguished final-year undergraduate student within the Faculty of Engineering, Hong Kong Polytechnic University.
       - This award aims to award full-time final-year students who excel in both academic and non-academic pursuits during their studies.
-      - Media coverage: 
-    links:
-      name: 'HK01'
-      url: 'https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/882652/%E7%90%86%E5%A4%A7%E5%8D%93%E8%B6%8A%E5%AD%B8%E7%94%9F%E7%8D%8E-%E5%8D%B0%E5%BA%A6%E5%A5%B3%E7%94%9F%E4%BF%AE%E8%AE%80%E6%9C%8D%E8%A3%9D%E5%8F%8A%E7%B4%A1%E7%B9%94-%E5%86%80%E6%96%BC%E6%99%82%E8%A3%9D%E7%95%8C%E6%8E%A8%E5%8B%95%E5%8F%AF%E6%8C%81%E7%BA%8C'
   - title: 'Scholarship on Outstanding Performance'
     url: https://www.edb.gov.hk/en/edu-system/postsecondary/local-higher-edu/publicly-funded-programmes/scholarship.html
     date: '2021-12-01'
