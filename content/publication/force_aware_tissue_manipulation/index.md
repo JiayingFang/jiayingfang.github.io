@@ -1,7 +1,14 @@
 ---
 title: "Force-based Robot Learning from Demonstration for Soft Tissue Manipulation"
-authors: Alaa Eldin Abdelaal, admin, Tim N. Reinhart, Jacob A. Mejia, Tony Z. Zhao, Chelsea Finn, Jeannette Bohg, Allison M. Okamura.
-- 
+authors: 
+- Alaa Eldin Abdelaal
+- admin
+- Tim N. Reinhart
+- Jacob A. Mejia
+- Tony Z. Zhao
+- Chelsea Finn
+- Jeannette Bohg
+- Allison M. Okamura
 date: "2024-05-14T00:00:00Z"
 doi: ""
 

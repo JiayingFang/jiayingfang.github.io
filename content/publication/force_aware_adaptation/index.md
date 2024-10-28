@@ -1,7 +1,7 @@
 ---
-title: "Force-Aware Adaptation: What can we do if the force sensor is unavailable? "
-authors: admin
-- 
+title: "Force-Aware Adaptation: What can we do if the force sensor is unavailable?"
+authors: 
+- admin 
 date: "2023-12-14T00:00:00Z"
 doi: ""
 
