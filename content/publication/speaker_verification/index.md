@@ -2,7 +2,6 @@
 title: "Bachelor Honours Project - Deep Speaker Embedding Across Languages"
 authors: 
 - admin 
-- Man-Wai Mak
 date: "2023-03-01T00:00:00Z"
 doi: ""
 
