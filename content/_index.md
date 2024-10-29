@@ -44,7 +44,7 @@ sections:
       title: Selected Publications and Projects
       filters:
         folders:
-          - publication
+          - publication_n_projects
         featured_only: true
     design:
       view: article-grid
@@ -55,7 +55,7 @@ sections:
       text: ""
       filters:
         folders:
-          - publication
+          - publication_n_projects
         exclude_featured: false
     design:
       view: citation
