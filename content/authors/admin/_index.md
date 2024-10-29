@@ -144,13 +144,9 @@ work:
       Supervisor: Prof. Man-Wai Mak
       - Implemented deep speaker embedding for speaker verification with a domain loss to alleviate the languages mismatch problem.
       - The performance of the ECAPA-TDNN (pre-trained using the English dataset) on the unlabelled Chinese dataset has improved by 10% with the MMD-based domain loss. Won the Honours Project Technical Excellence Award. 
-    block: buttons
-    content:
-      buttons:
-        - title: 'Report'
-          url: 'https://drive.google.com/file/d/1u0oVlbbCxIFAbcdxVdU_fLN6S6T79gW6/view?usp=sharing'
-        - title: 'Code'
-          url: 'https://github.com/JiayingFang/ECAPA-TDNN_across_lang'
+    button:
+      text: 'Report and Code'
+      url: 'https://github.com/JiayingFang/ECAPA-TDNN_across_lang'
   - position: Undergraduate Research Assistant
     company_name: Dynamics, Estimation, and Control in Aerospace and Robotics Lab, McGill University
     company_url: 'https://www.decar.ca/'

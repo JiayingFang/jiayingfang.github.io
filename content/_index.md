@@ -81,8 +81,8 @@ sections:
   - block: collection
     id: earlier_work
     content:
-      title: Selected Projects
-      text: Here are a selection of projects that I have worked on before.
+      title: Earlier Projects
+      text: Here are a selection of projects that I have worked on earlier.
       filters:
         folders:
           - project
