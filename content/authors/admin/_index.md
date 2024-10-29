@@ -237,4 +237,8 @@ awards:
 
 ## About Me
 
-I am a Master Student at Stanford University. I have worked on robot learning at the Interactive Perception and Robot Learning Lab and surgical robotics at Collaborative Haptics and Robotics in Medicine Lab at Stanford. In summer 2024, I joined Intuitive Surgical working on Human-Robot Interaction as a Machine Learning Intern. I finished my BEng degree in Electronic and Information Engineering at HK PolyU. My research interest lies in the intersection of Robotics, Computer Vision and Haptic Sensing.
+I am a Master Student at Stanford University. My research interest lies in the intersection of Robotics, Computer Vision and Haptic Sensing. 
+
+I have worked on robot learning at the Interactive Perception and Robot Learning Lab and surgical robotics at Collaborative Haptics and Robotics in Medicine Lab at Stanford. In summer 2024, I joined Intuitive Surgical working on Human-Robot Interaction as a Machine Learning Intern. 
+
+Prior to my Masters study at Stanford, I finished my BEng degree in Electronic and Information Engineering with the highest award at HK PolyU. 
