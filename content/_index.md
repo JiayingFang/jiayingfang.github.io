@@ -78,6 +78,18 @@ sections:
     content:
       title: Awards
       username: admin
+  - block: collection
+    id: earlier_work
+    content:
+      title: Selected Projects
+      text: Here are a selection of projects that I have worked on before.
+      filters:
+        folders:
+          - project
+    design:
+      view: article-grid
+      fill_image: false
+      columns: 2
   # - block: collection
   #   id: talks
   #   content:
