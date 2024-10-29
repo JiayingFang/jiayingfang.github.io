@@ -51,7 +51,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: "All Projects"
+      title: "Recent Projects"
       text: ""
       filters:
         folders:
