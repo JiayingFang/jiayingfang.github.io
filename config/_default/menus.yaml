@@ -19,7 +19,7 @@ main:
   - name: Earlier Work
     url: /#earlier_work
     weight: 30
-  - name: Publications and Projects
+  - name: Projects
     url: /#papers
     weight: 21
   # - name: Teaching
