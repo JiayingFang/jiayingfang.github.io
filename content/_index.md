@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Selected Publications and Projects
+      title: Selected Projects
       filters:
         folders:
           - publication_n_projects
