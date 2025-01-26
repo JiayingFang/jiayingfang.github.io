@@ -117,7 +117,7 @@ work:
     summary: |2-
       Supervisor: Prof. Allison Okamura
       - Designed and Implemented a force-aware autonomous tissue manipulation model using imitation learning with da-Vinci Research Kit (dVRK). The task completion rate of autonomous tissue retraction increased 50\% with haptic sensing. 
-      - To be submitted to RAL around December 2024.
+      - Paper in submission.
       - Presented force-aware autonomous surgery at Stanford Human-Centered Artificial Intelligence Conference 2024.
     button:
       text: 'Paper'
