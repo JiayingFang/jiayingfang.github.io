@@ -38,7 +38,7 @@ featured: true
 
 links:
 # - name: Custom Link
-url: 'https://arxiv.org/pdf/2501.11742'
+url_pdf: 'https://arxiv.org/pdf/2501.11742'
 url_poster: 'https://hai.stanford.edu/sites/default/files/2024-06/Alaa_Eldin_and_Jiaying_Fang.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'

@@ -120,8 +120,8 @@ work:
       - To be submitted to RAL around December 2024.
       - Presented force-aware autonomous surgery at Stanford Human-Centered Artificial Intelligence Conference 2024.
     button:
-      text: 'Poster'
-      url: 'https://hai.stanford.edu/sites/default/files/2024-06/Alaa_Eldin_and_Jiaying_Fang.pdf'
+      text: 'Paper'
+      url: 'https://arxiv.org/pdf/2501.11742'
   - position: Computer Vision Algorithm Intern
     company_name: China Telecom AI
     company_url: 'https://www.chinatelecomglobal.com/'
