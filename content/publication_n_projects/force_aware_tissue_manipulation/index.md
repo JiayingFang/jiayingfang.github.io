@@ -1,5 +1,5 @@
 ---
-title: "Force-based Robot Learning from Demonstration for Soft Tissue Manipulation"
+title: "Force-Aware Autonomous Robotic Surgery"
 authors: 
 - Alaa Eldin Abdelaal
 - admin
@@ -21,8 +21,8 @@ publishDate: "2024-09-14T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Stanford Human-Centered Artificial Intelligence at Five Conference"
-publication_short: "HAI at Five"
+publication: "Submitted"
+publication_short: "Submitted"
 
 abstract: We hypothesize that force-aware autonomous systems will have higher success rate and be more gentle with tissue in surgical robotics tasks requiring physical interaction, compared to force-agnostic ones. This work validates this hypothesis using imitation learning.
 
@@ -38,7 +38,7 @@ featured: true
 
 links:
 # - name: Custom Link
-#   url: http://example.org
+url: 'https://arxiv.org/pdf/2501.11742'
 url_poster: 'https://hai.stanford.edu/sites/default/files/2024-06/Alaa_Eldin_and_Jiaying_Fang.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
