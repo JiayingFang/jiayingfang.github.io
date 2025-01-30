@@ -41,8 +41,8 @@ profiles:
   #   url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jiaying-fang-554b691b8/
-  # - icon: academicons/google-scholar
-  #   url: https://scholar.google.com/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=VwIAvz4AAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
