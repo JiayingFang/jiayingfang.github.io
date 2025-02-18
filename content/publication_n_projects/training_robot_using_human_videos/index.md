@@ -1,12 +1,14 @@
 ---
-title: "Force-Aware Adaptation: What can we do if the force sensor is unavailable?"
+title: "Training Robots Without Robots Using Only Human Videos"
 authors: 
-- admin 
-date: "2023-12-14T00:00:00Z"
+- Marion Lepert
+- admin
+- Jeannette Bohg
+date: "2025-02-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-08-14T00:00:00Z"
+publishDate: "2025-02-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -14,37 +16,47 @@ publishDate: "2024-08-14T00:00:00Z"
 # publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "Submitted"
+publication_short: "Submitted"
 
-abstract: We developed a system that learns and distills the force/torque information during training, then deploys the policy when the force/torque sensor is not available. The distillation module consists of a Teacher-Student architectrue for haptic feedback. The adapted policy can reach a 70% success rate even when the force/torque sensor is unavailable, while the baselines system without the two-stage distillation only achieves 20% succcess rate.
+abstract: Scaling robotics data collection is critical to advancing general-purpose robots. Current approaches often rely
+on teleoperated demonstrations which are difficult to scale. We
+propose a novel data collection method that eliminates the need
+for robotics hardware by leveraging human video demonstrations. By training imitation learning policies on this human data,
+our approach enables zero-shot deployment on robots without
+collecting any robot-specific data. To bridge the embodiment
+gap between human and robot appearances, we utilize a data
+editing approach on the input observations that aligns the image
+distributions between training data on humans and test data
+on robots. Our method significantly reduces the cost of diverse
+data collection by allowing anyone with an RGBD camera to
+contribute. We demonstrate that our approach works in diverse,
+unseen environments and on varied tasks
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Haptic Feedback
-- Reinforcement Learning
-- Motor Adaptation
+- Imitation Learning, Learn from Human Videos
 
-featured: false
+featured: true
 
 links:
 # - name: Custom Link
-#   url: http://example.org
-url_pdf: 'https://drive.google.com/file/d/1H0dNrO1rmT-15Uh_x7JDwXUsFMeUP_4K/view?usp=sharing'
+# url_pdf: 'https://arxiv.org/pdf/2501.11742'
+# url_poster: 'https://hai.stanford.edu/sites/default/files/2024-06/Alaa_Eldin_and_Jiaying_Fang.pdf'
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
-url_slides: 'https://docs.google.com/presentation/d/1ZN7DbITV7c_fYVVH4zHWkLcKjXQcZ-1m/edit?usp=sharing&ouid=109222920278629835448&rtpof=true&sd=true'
+# url_video: 'https://drive.google.com/file/d/1U04ik2-BkJy3Zuvk45IxSampP9N9ShhR/view?usp=sharing'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Force-aware Policy Adaptation'
+  caption: 'Human Video Editing with Synthetic Robot Arm'
   focal_point: ""
   preview_only: false
 
