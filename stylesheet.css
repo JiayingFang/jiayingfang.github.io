@@ -116,14 +116,21 @@ h2 {
   background-color: transparent;
   border-radius: 4px;
   overflow: hidden;
+  /* Center the figure; avoid forcing both axes on <img> (fixes cross-browser stretch). */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
-/* Show full figure without cropping (Jon Barron box is fixed; use letterboxing). */
+/* Fit inside 160×160 without distorting intrinsic aspect ratio (do not set both width and height on the img). */
 .one > img {
-  width: 160px;
-  height: 160px;
+  max-width: 160px;
+  max-height: 160px;
+  width: auto;
+  height: auto;
   object-fit: contain;
   display: block;
+  flex-shrink: 0;
 }
 
 .two {
