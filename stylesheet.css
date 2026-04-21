@@ -113,6 +113,17 @@ h2 {
   width: 160px;
   height: 160px;
   position: relative;
+  background-color: transparent;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+/* Show full figure without cropping (Jon Barron box is fixed; use letterboxing). */
+.one > img {
+  width: 160px;
+  height: 160px;
+  object-fit: contain;
+  display: block;
 }
 
 .two {
@@ -122,6 +133,12 @@ h2 {
   transition: opacity .2s ease-in-out;
   -moz-transition: opacity .2s ease-in-out;
   -webkit-transition: opacity .2s ease-in-out;
+}
+
+.two video {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
 }
 
 .fade {
