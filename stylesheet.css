@@ -164,3 +164,30 @@ span.highlight {
     display: inline-block;
     border-radius: 10px;
 }
+
+.news-list {
+  margin: 8px 0 0 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.news-list li {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5em;
+  margin-bottom: 0.35em;
+}
+
+.news-list li:last-child {
+  margin-bottom: 0;
+}
+
+.news-date {
+  flex: 0 0 6.5em;
+  font-weight: 700;
+}
+
+.news-text {
+  flex: 1 1 auto;
+  min-width: 0;
+}
